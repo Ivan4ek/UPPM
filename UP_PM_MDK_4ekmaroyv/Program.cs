@@ -16,7 +16,7 @@ namespace UP_PM_MDK_4ekmaroyv
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Form2());
         }
     }
 }
